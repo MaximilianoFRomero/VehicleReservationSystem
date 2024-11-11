@@ -1,0 +1,17 @@
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\bin\Debug\net8.0-windows\VehicleRentSys.exe
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\bin\Debug\net8.0-windows\VehicleRentSys.deps.json
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\bin\Debug\net8.0-windows\VehicleRentSys.runtimeconfig.json
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\bin\Debug\net8.0-windows\VehicleRentSys.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\bin\Debug\net8.0-windows\VehicleRentSys.pdb
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.Form1.resources
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.UserInterface.Home.resources
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.csproj.GenerateResource.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.AssemblyInfoInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.AssemblyInfo.cs
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.csproj.CoreCompileInputs.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\refint\VehicleRentSys.dll
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.pdb
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\VehicleRentSys.genruntimeconfig.cache
+D:\Users\Maximiliano Romero\Escritorio\EDI-3-main\VehicleRentSys\VehicleRentSys\obj\Debug\net8.0-windows\ref\VehicleRentSys.dll
